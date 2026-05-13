@@ -1,4 +1,4 @@
-
+Enhance Magnetic for macOS with Magnetic for macOS exclusive Workflow - menu-bar-customization and startup-manager, the #1 workflow. Includes menu-bar-customization and
 
 
 
